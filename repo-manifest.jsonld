@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scrapinghub/scrapy-poet/commit/f06d684b6b1a40625eb846680225cb00a67bf7ec",
       "git:hexsha": "f06d684b6b1a40625eb846680225cb00a67bf7ec",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T13:05:25.153060+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapinghub/scrapy-poet/commit/478857b5fe3108e844dc6444b859504dcbbfe147",
