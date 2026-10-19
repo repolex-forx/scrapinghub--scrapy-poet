@@ -1,0 +1,11 @@
+{
+  "org": "scrapinghub",
+  "repo": "scrapy-poet",
+  "versions": [
+    {
+      "commit": "f06d684b6b1a40625eb846680225cb00a67bf7ec",
+      "tag": "",
+      "parsed_at": "2026-10-19T13:05:25.185829+00:00"
+    }
+  ]
+}
